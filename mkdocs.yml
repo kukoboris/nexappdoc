@@ -4,7 +4,11 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
     - navigation.sections
+    - navigation.instant
+    - navigation.instant.prefetch
     - toc.integrate
     - navigation.top
     - search.suggest
@@ -38,4 +42,7 @@ theme:
         name: Switch to system preference
       primary: black
       accent: lime
+
+plugins:
+  - blog
 
