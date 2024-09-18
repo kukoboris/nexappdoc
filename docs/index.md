@@ -1,4 +1,4 @@
-# Welcome to NexAppCloud Documentation
+# Welcome
 
 Welcome to the official NexAppCloud documentation site! Here, you’ll find all the resources, guides, and references to help you seamlessly integrate, manage, and scale your cloud applications with NexAppCloud.
 
