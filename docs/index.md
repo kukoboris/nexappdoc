@@ -24,4 +24,3 @@ Let’s get started building amazing cloud applications with NexAppCloud.
 
 
 For full documentation visit [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
-        ...       # Other markdown pages, images and other files.
