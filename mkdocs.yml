@@ -8,13 +8,12 @@ theme:
     - navigation.path
     - navigation.sections
     - navigation.instant
-    - navigation.instant.prefetch
     - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
-    - content.code.annotation
+    - content.code.annotate
     - content.code.copy
   language: en
   palette:
